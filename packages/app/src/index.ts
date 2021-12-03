@@ -15,5 +15,5 @@ export const info: { [k: string]: string } = {
   github: "https://github.com/medic",
   terms: "https://twitter.com/Medic",
   privacy: "https://docs.google.com/document/d/1MaI1rgYMNyCZF2eEjBuvnBDoCYHDKlx4k_N5pkDiWu8/edit",
-  install: "https://deliverybot.app.medicmobile.org",
+  install: "https://github.com/organizations/medic/settings/installations/20956502",
 };
