@@ -13,7 +13,7 @@ export const info: { [k: string]: string } = {
   documentation: "https://docs.communityhealthtoolkit.org/",
   support: "app-services@medic.org",
   github: "https://github.com/medic",
-  terms: "https://twitter.com/Medic",
+  terms: "https://deliverybot.dev/terms/terms/",
   privacy: "https://docs.google.com/document/d/1MaI1rgYMNyCZF2eEjBuvnBDoCYHDKlx4k_N5pkDiWu8/edit",
   install: "https://github.com/organizations/medic/settings/installations/20956502",
 };
